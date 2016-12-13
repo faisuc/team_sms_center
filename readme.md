@@ -25,3 +25,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+
+## Setting Up SMS
+To make the sms working you need to create an account on https://www.plivo.com/ and generate auth token and auth id. And then paste it on config/sms.php file.
