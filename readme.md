@@ -29,3 +29,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Setting Up SMS
 To make the sms working you need to create an account on https://www.plivo.com/ and generate auth token and auth id. And then paste it on config/sms.php file.
+
+## Setting Up Database
+Simply download and import this file https://we.tl/Lv06yLiOHV . The admin login details is Username: admin@admin.com Password: 123321123
